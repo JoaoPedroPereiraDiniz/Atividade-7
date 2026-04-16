@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulador de Orçamento Pessoal
 
 ## 👤 Aluno
@@ -20,3 +21,6 @@ O sistema:
 
 ## 📸 Execução
 ![Resultado do programa](c:\Users\jpgue\Downloads\screenshot-1776300964779.png)
+=======
+# Atividade-7
+>>>>>>> 4a1ffa593ac2c02a9304dec6ae41e2fe0ce999e1
